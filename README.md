@@ -16,7 +16,7 @@ sfmm add jsmithdev extenda-excel -si
 
 ## APIs
 
-| Type | Name | Description |
+| Syntax | Description | Usage |
 | -------- | -------- | -------- |
-| Function | newWorkbook  | Create a new ExcelJS workbook |
-| Function | excelToObjects  | Parse Excel file to record objects |
+| newWorkbook | Create a new ExcelJS workbook | this.newWorkbook() | 
+| excelToObjects | Parse Excel file to record objects | await this.excelToObjects() | 
