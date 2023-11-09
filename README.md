@@ -11,7 +11,7 @@ Uses [sfmm](https://npmjs.com/package/sfmm)
 From sf/sfdx project root:
 
 ```bash
-sfmm add -s jsmithdev extenda-excel
+sfmm add jsmithdev extenda-excel -si
 ```
 
 ## APIs
