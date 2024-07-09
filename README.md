@@ -4,6 +4,8 @@
 
 This component is a wrapper around [ExcelJS](https://www.npmjs.com/package/exceljs) with useful tasks added
 
+For Export see [extenda-excel-export](https://github.com/jsmithdev/extenda-excel-export)
+
 Uses [sfmm](https://npmjs.com/package/sfmm)
 
 ## Add to project
