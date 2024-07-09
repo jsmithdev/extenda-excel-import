@@ -6,9 +6,10 @@ This component is a wrapper around [ExcelJS](https://www.npmjs.com/package/excel
 
 For Export see [extenda-excel-export](https://github.com/jsmithdev/extenda-excel-export)
 
-Uses [sfmm](https://npmjs.com/package/sfmm)
 
 ## Add to project
+
+Uses [sfmm](https://npmjs.com/package/sfmm)
 
 From sf/sfdx project root:
 
