@@ -1,4 +1,4 @@
-# extenda-excel
+# extenda-excel-import
 
 ## Description
 
@@ -11,7 +11,7 @@ Uses [sfmm](https://npmjs.com/package/sfmm)
 From sf/sfdx project root:
 
 ```bash
-sfmm add jsmithdev extenda-excel -si
+sfmm add jsmithdev extenda-excel-import -si
 ```
 
 ## APIs
